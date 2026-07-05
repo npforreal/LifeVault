@@ -1,3 +1,5 @@
+# NOTE: THIS IS A PERSONAL PROJECT AND STILL WORKING ON.
+
 # LifeVault
 
 LifeVault is a secure digital data and connected account lifecycle manager. The project combines a privacy-first vault, encrypted lifecycle controls, and official-account automation hooks in a clean, production-oriented architecture.
